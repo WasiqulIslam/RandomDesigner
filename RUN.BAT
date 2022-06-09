@@ -1,0 +1,1 @@
+C:\jdk1.3\bin\java Designer autoplay

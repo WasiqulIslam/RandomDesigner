@@ -1,0 +1,10 @@
+You may need to install JAVA to run this program
+to install JAVA follow the link:
+http://www.java.com/en/download/index.jsp
+
+After installation has finished,
+double click the "RUN.bat" file or RUN2.bat file.
+If no success then edit the RUN2.bat file and change the java path as needed.
+
+If you have more trouble contact me(Wasiqul Islam) with your problem details to:
+islam.wasiqul@gmail.com
