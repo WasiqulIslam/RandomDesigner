@@ -1,5 +1,5 @@
-//7:54 PM 9/30/2004
-//Wasiqul Islam
+7:54 PM 9/30/2004
+Wasiqul Islam
 Designer v1.4
 it uses Random class and do not use Math.random()
 it overrides update method of JWindow for smoothness
