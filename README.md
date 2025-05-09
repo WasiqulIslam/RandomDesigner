@@ -1,3 +1,16 @@
+To view random designs simply download the "View Random Designer v1.4.zip" zip file and extract and run (this works in Windows only). No setup is required for this.
+Random Designer program lets you create amazing designs randomly. Some sample designs are shown below.
+
+![image](https://github.com/user-attachments/assets/606685cd-5801-49c0-9a24-9572462c4907)
+
+![image](https://github.com/user-attachments/assets/7a486379-de3c-4bab-a673-01d071c7c44d)
+
+![image](https://github.com/user-attachments/assets/5743eb07-c579-43da-aec7-6ca81ce30e97)
+
+![image](https://github.com/user-attachments/assets/6d21092d-4b3d-4fc6-8e6b-ac6231c24168)
+
+![image](https://github.com/user-attachments/assets/9eb4e8b7-d003-4e97-a02a-28adb6cd8530)
+
 7:54 PM 9/30/2004
 Wasiqul Islam
 Designer v1.4
