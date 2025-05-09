@@ -33,6 +33,11 @@ public class Designer extends JWindow implements KeyListener
    {
       try
       {
+
+         JOptionPane.showMessageDialog( this, 
+            "Please set primary display resolution to 800X600 pixels (if not already set) to make it fullscreen.", 
+            "Recommended", JOptionPane.INFORMATION_MESSAGE );
+
          if( s != 0 )
             seed = s;
          else
@@ -145,14 +150,14 @@ public class Designer extends JWindow implements KeyListener
          x = 75;
          y = 25;
          z = 100;
-         g.setColor( Color.red );
+         g.setColor( new Color(220,222,65) );
          g.drawString( "Designer v1.4(7:54 PM 9/30/2004). Programmed by Wasiqul Islam" , z , x += y );
-         g.drawString( "(E-mail address: wasiqul_islam@yahoo.com)" , z , x += y );
+         g.drawString( "(E-mail address: islam.wasiqul@gmail.com)" , z , x += y );
          g.drawString( "Please set resolution to 800X600 pixels (if not set)" , z , x += y );
          g.drawString( "You can use \'PrintScreenSysReq\' key( located near \'Delete\' key ) to copy image" , z , x += y );
          g.drawString( "and can paste it in any photo editor" , z , x += y );
          g.drawString( "Type the following keys for:" , z , x += y );
-         g.setColor( Color.blue );
+         g.setColor( new Color(67,101,219) );
          g.drawString( "SPACE = to re-design" , z , x += y );
          g.drawString( "ENTER = to change color" , z , x += y );
          g.drawString( "ESC = to Exit" , z , x += y);

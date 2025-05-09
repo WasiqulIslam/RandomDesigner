@@ -1,3 +1,2 @@
-javac MyThread.java -Xlint:deprecation
-javac Designer.java -Xlint:deprecation
+C:\jdk1.3\bin\javac Designer.java
 pause

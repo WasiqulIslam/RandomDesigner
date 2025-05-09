@@ -1,1 +1,2 @@
-C:\jdk1.3\bin\java Designer autoplay
+start C:\jdk1.3\bin\javaw Designer
+
